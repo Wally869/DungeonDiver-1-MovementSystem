@@ -14,6 +14,10 @@ Clone or download the repository, and put the content of the Assets folder, into
 
 Then read [this short article](https://www.noveltech.dev/dungeondiver_movement_1) to learn how to use it. 
 
+## Textures
+
+I am using Kenney's Prototype Textures for quick prototyping https://www.kenney.nl/assets/prototype-textures  
+
 ## Other Resources
 
 ### UI
