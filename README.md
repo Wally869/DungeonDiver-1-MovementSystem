@@ -16,7 +16,9 @@ Then read [this short article](https://www.noveltech.dev/dungeondiver_movement_1
 
 ## Textures
 
-I am using Kenney's Prototype Textures for quick prototyping https://www.kenney.nl/assets/prototype-textures  
+I am using Kenney's Prototype Textures for quick prototyping https://www.kenney.nl/assets/prototype-textures.
+
+Due to the frequent changes to Unity's rendering pipeline, the imported textures might show badly. In this case, just switch to the standard shader for the materials.
 
 ## Other Resources
 
