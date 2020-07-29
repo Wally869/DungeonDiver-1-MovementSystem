@@ -22,6 +22,9 @@ Due to the frequent changes to Unity's rendering pipeline, the imported textures
 
 ## Other Resources
 
+### DungeonDiver
+All resources related to this project have been centralized here: https://www.noveltech.dev/work/dungeondiver/
+
 ### UI
 - Buttons Group for Unity - [Github](https://github.com/Wally869/Buttons-Group-Unity)
 <!--[Article](placeholder) -->
